@@ -9,3 +9,7 @@ class Article(models.Model):
     date = models.DateTimeField(auto_now_add=True)
     #add thumnail
     #add author
+
+    def __str__(self):
+        return self.title
+    
