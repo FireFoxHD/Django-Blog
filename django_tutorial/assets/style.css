@@ -1,0 +1,14 @@
+*{
+    font-family: montserrat;
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background-color:#3F2E56; 
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
